@@ -1,0 +1,32 @@
+# 36.04
+# Stop:
+
+curl 'http://study.zhihuishu.com/json/learning/prelearningNote?time=1552666950996' -H 'Accept: */*' -H 'Referer: http://study.zhihuishu.com/learning/videoList;jsessionid=D44EA4AD84B577C93262D2874CC7FD5C?recruitAndCourseId=4b5959584352415846435b5958' -H 'Origin: http://study.zhihuishu.com' -H 'X-Requested-With: XMLHttpRequest' -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.75 Safari/537.36' -H 'Content-Type: application/x-www-form-urlencoded; charset=UTF-8' --data 'rid=11006&studentCount=1&lessonId=508272&PCourseId=39547&chapterId=275233&lessonVideoId=642433&userId=191914493&videoId=159937&studyStatus=&chapterOrder=4&lessonOrder=3&lessonVideoOrder=2&order=4.3.2&leafName=%E6%A4%8D%E7%89%A9%E7%BA%B9%E6%A0%B72&courseId=2039300' --compressed
+
+rid: 11006
+studentCount: 1
+lessonId: 508272
+PCourseId: 39547
+chapterId: 275233
+lessonVideoId: 642433
+userId: 191914493
+videoId: 159937
+studyStatus: 
+chapterOrder: 4
+lessonOrder: 3
+lessonVideoOrder: 2
+order: 4.3.2
+leafName: 植物纹样2
+courseId: 2039300
+
+# OLD COOKIE:
+zsh_learning_rid_11006_userId_191914493_videoId_159939
+2_990_00%3A02%3A05
+
+zsh_learning_rid_11006_userId_191914493_videoId_159941
+2_990_00%3A02%3A05
+
+
+zsh_learning_rid_11006_userId_191914493_videoId_159941
+
+$.cookie('the_cookie', 'the_value', { expires: 7 });
