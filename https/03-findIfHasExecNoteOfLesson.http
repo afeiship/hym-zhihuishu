@@ -1,0 +1,9 @@
+POST http://study.zhihuishu.com/json/noteContent/findIfHasExecNoteOfLesson?v=1552669115018
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.75 Safari/537.36
+X-Requested-With: XMLHttpRequest
+Referer: http://study.zhihuishu.com/learning/videoList;jsessionid=D44EA4AD84B577C93262D2874CC7FD5C?recruitAndCourseId=4b5959584352415846435b5958
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Cookie: Hm_lvt_0a1b7151d8c580761c3aef32a3d501c6=1552656357; CASTGC=TGT-1876039-HANRwCEcZfePvJoTyorYHfGIqyuGEMLLJVXzKZjKp44kB53GMp-passport.zhihuishu.com; CASLOGC=%7B%22myuniRole%22%3A0%2C%22username%22%3A%22938bcc2c3e6742f2a233f4b7132c8622%22%2C%22mycuRole%22%3A0%2C%22userId%22%3A191914493%2C%22myinstRole%22%3A0%2C%22realName%22%3A%22%E4%BB%98%E5%A8%81%22%2C%22uuid%22%3A%22VBRoGlbR%22%2C%22headPic%22%3A%22http%3A%2F%2Fimage.zhihuishu.com%2Fzhs%2Fablecommons%2Fdemo%2F201804%2Fc3ba9e3f8ead4392ae5df8ab29118297_s3.jpg%22%7D; o_session_id=31B0D769617ADF260D32C7AE004528B3; privateCloudSchoolInfo_191914493=",1,,http://image.zhihuishu.com/testzhs/myuni/home/201607/bee3341e7ff849d3b4eca565ab73582b.png,http://image.zhihuishu.com/testzhs/myuni/home/201607/e4b992264bf44e6e8a2098bd931d176c.png,1094,http://school.zhihuishu.com/WPUIC,"; Z_LOCALE=1; route=bf3690a91105b597d79524a80088eef2; JSESSIONID=D44EA4AD84B577C93262D2874CC7FD5C; c_session_id=D44EA4AD84B577C93262D2874CC7FD5C; isLogin=myschool; ZHSID=0F2EB88EAA9C24511D2D614ADF4CEB4C; cookieServer=1; warningTip=1; zsh_learning_rid_11006_userId_191914493_videoId_159943=2_9805_00%3A00%3A57; SERVERID=b1981271024e2ffaaf63c337b5db4f00|1552668926|1552668861; Hm_lpvt_0a1b7151d8c580761c3aef32a3d501c6=1552668928
+
+lessonId=508275&lessonVideoId=&courseId=2039300&userId=191914493
+
